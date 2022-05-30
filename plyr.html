@@ -20,20 +20,15 @@
     <div id="content" style="padding-top: 25px;">
       <div id="main" class="container container-body">
 
-        <div id="player2" data-plyr-provider="youtube" data-plyr-embed-id="bTqVqk7FSmY"></div>
-
-        <div style="width: 500px; height: 500px;">
-            <video src="https://mirror.clarkson.edu/blender/demo/movies/BBB/bbb_sunflower_1080p_30fps_normal.mp4"
-        id="player" controls data-plyr-config='{ "volume": 1, "debug": true }'></video>
-        </div>
+        <div id="player" data-plyr-provider="youtube" data-plyr-embed-id="bTqVqk7FSmY"></div>
         <br><br><br>
 
         <script src="https://cdn.plyr.io/3.5.6/plyr.js"></script>
         <link rel="stylesheet" href="https://cdn.plyr.io/3.5.6/plyr.css">
         <script>
-            const player = new Plyr('#player2');
+            const player = new Plyr('#player');
             player.on('ready', function () {
-                var video = document.getElementById('player2');
+                var video = document.getElementById('player');
                 window.SubtitlesOctopusOnLoad = function() {
                     var options = {
                         video: video,
