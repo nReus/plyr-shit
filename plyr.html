@@ -17,15 +17,10 @@
 
 <body>
 
-    <div id="content" >
-      <div id="main" class="container container-body">
-
-
-        <div style="width: 100%; height: 100%;">
-            <video src="https://drive.google.com/uc?export=download&id=1if3UP88aZVkB7QrwtmeHmV-K-IUVN54C"
-        id="player" controls data-plyr-config='{ "volume": 1, "debug": true }'></video>
-        </div>
-        <br><br><br>
+  <div style="width: 100%; height: 100%;">
+      <video src="https://drive.google.com/uc?export=download&id=1if3UP88aZVkB7QrwtmeHmV-K-IUVN54C"
+  id="player" controls data-plyr-config='{ "volume": 1, "debug": true }'></video>
+  </div>
 
         <script src="https://cdn.plyr.io/3.5.6/plyr.js"></script>
         <link rel="stylesheet" href="https://cdn.plyr.io/3.5.6/plyr.css">
@@ -37,7 +32,7 @@
                     var options = {
                         video: video,
                         subUrl: '/plyr-shit/subtitles/DearMomentsSub.ass',
-                        fonts: ['/plyr-shit/fonts/DraftB-Medium.ttf', '/plyr-shit/fonts/TimesNewRoman.ttf'],
+                        fonts: ['/plyr-shit/fonts/DraftB-Medium.ttf'],
                         //onReady: onReadyFunction,
                         //debug: true,
                         workerUrl: '/plyr-shit/assets/js/subtitles-octopus-worker.js'
@@ -49,7 +44,7 @@
                 }
             });
         </script>
-      </div>
-    </div>
+
+
   </body>
 </html>
