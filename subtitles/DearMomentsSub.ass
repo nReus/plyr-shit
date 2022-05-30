@@ -11,12 +11,13 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Video File: ?dummy:23.976000:40000:1920:1080:47:163:254:
+Audio File: E:/Misc/YT Edits/Evy/ATRI-ED/DearMomentsVid.mp4
+Video File: E:/Misc/YT Edits/Evy/ATRI-ED/DearMomentsVid.mp4
+Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 10
-Active Line: 29
-Video Position: 571
+Active Line: 1
+Video Position: 2557
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -25,33 +26,33 @@ Style: To Natsuki,DraftB-Medium,85,&H00D7EE29,&H000000FF,&H1E000000,&H50000000,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:05.41,0:00:20.45,From Shiina,,0,0,120,,{\blur10} Translated by sviiseven / nReus & EnzoAquila
-Dialogue: 0,0:00:23.78,0:00:35.05,From Shiina,,0,0,120,,{\blur10} By the rain-soaked windowsill
-Dialogue: 0,0:00:35.91,0:00:47.72,From Shiina,,0,0,120,,{\blur10} I hum a nostalgic tune
-Dialogue: 0,0:00:48.28,0:00:59.72,From Shiina,,0,0,120,,{\blur10} In the emptiness of my young self's heart
-Dialogue: 0,0:00:59.94,0:01:12.31,From Shiina,,0,0,120,,{\blur10} A newborn warmth blossoms within
-Dialogue: 0,0:01:14.88,0:01:27.32,From Shiina,,0,0,120,,{\blur10} Hand in hand, returning home from the seaside dyed red of the sunset
-Dialogue: 0,0:01:27.33,0:01:32.94,From Shiina,,0,0,120,,{\blur10} What was nothing more than the usual carefree times,
-Dialogue: 0,0:01:32.95,0:01:38.84,From Shiina,,0,0,120,,{\blur10} Had now become very dear moments
-Dialogue: 0,0:01:38.85,0:01:51.28,From Shiina,,0,0,120,,{\blur10} On the corners of that old photo album, remain traces of teardrops
-Dialogue: 0,0:01:51.28,0:01:56.85,From Shiina,,0,0,120,,{\blur10} To the one who found them,
-Dialogue: 0,0:01:56.85,0:02:07.28,From Shiina,,0,0,120,,{\blur10} I convey to you, "Thank you, and farewell."
-Dialogue: 0,0:02:26.94,0:02:38.41,To Natsuki,,0,0,120,,{\blur10} As I write this letter,
-Dialogue: 0,0:02:38.91,0:02:50.98,To Natsuki,,0,0,120,,{\blur10} I dream of the good old days
-Dialogue: 0,0:02:50.98,0:03:02.88,To Natsuki,,0,0,120,,{\blur10} Sleeping at the ocean's floor, remaining unnamed
-Dialogue: 0,0:03:02.88,0:03:14.58,To Natsuki,,0,0,120,,{\blur10} A single bud, that will sprout into a pure heart
-Dialogue: 0,0:03:17.68,0:03:24.28,To Natsuki,,0,0,120,,{\blur10} Hand in hand, we sleep together in the night
-Dialogue: 0,0:03:24.28,0:03:30.21,To Natsuki,,0,0,120,,{\blur10} Underneath the shining starry sky
-Dialogue: 0,0:03:30.21,0:03:35.81,To Natsuki,,0,0,120,,{\blur10} That warmth you provided for me,
-Dialogue: 0,0:03:35.85,0:03:41.88,To Natsuki,,0,0,120,,{\blur10} The feeling lingers in my hands
-Dialogue: 0,0:03:41.88,0:03:48.31,To Natsuki,,0,0,120,,{\blur10} In these distant, fading memories,
-Dialogue: 0,0:03:48.31,0:03:54.21,To Natsuki,,0,0,120,,{\blur10} A gentle voice resonates
-Dialogue: 0,0:03:54.21,0:04:02.51,To Natsuki,,0,0,120,,{\blur10} Telling me to pass on to you,
-Dialogue: 0,0:04:02.51,0:04:08.58,To Natsuki,,0,0,120,,{\blur10} "Thank you, and farewell."
-Dialogue: 0,0:04:38.91,0:04:51.25,From Shiina,,0,0,120,,{\blur10} Hand in hand, returning home from the seaside dyed red of the sunset
-Dialogue: 0,0:04:51.25,0:04:56.88,From Shiina,,0,0,120,,{\blur10} What was nothing more than an ordinary moment,
-Dialogue: 0,0:04:56.88,0:05:02.95,From Shiina,,0,0,120,,{\blur10} Now had become a very dear moment
-Dialogue: 0,0:05:02.95,0:05:15.21,From Shiina,,0,0,120,,{\blur10} On the corners of that old photo album, remains traces of teardrops
-Dialogue: 0,0:05:15.21,0:05:20.85,From Shiina,,0,0,120,,{\blur10} To the one who found this,
-Dialogue: 0,0:05:20.85,0:05:33.81,From Shiina,,0,0,120,,{\blur10} Thank you, my favorite person
-Dialogue: 0,0:05:35.78,0:05:48.85,From Shiina,,0,0,120,,{\blur10} Those dear moments, they'll never come back
+Dialogue: 0,0:00:04.91,0:00:19.95,From Shiina,,0,0,120,,{\blur10}{\fad(250,250)} Translated by sviiseven / nReus & EnzoAquila
+Dialogue: 0,0:00:23.28,0:00:34.55,From Shiina,,0,0,120,,{\blur10}{\fad(250,250)}By the rain-soaked windowsill
+Dialogue: 0,0:00:35.41,0:00:47.22,From Shiina,,0,0,120,,{\blur10}{\fad(250,250)} I hum a nostalgic tune
+Dialogue: 0,0:00:47.78,0:00:59.22,From Shiina,,0,0,120,,{\blur10}{\fad(250,250)} In the emptiness of my young self's heart
+Dialogue: 0,0:00:59.44,0:01:11.81,From Shiina,,0,0,120,,{\blur10}{\fad(250,250)} A newborn warmth blossoms within
+Dialogue: 0,0:01:14.38,0:01:26.82,From Shiina,,0,0,120,,{\blur10}{\fad(250,250)} Hand in hand, returning home from the seaside dyed red of the sunset
+Dialogue: 0,0:01:26.83,0:01:32.44,From Shiina,,0,0,120,,{\blur10}{\fad(250,250)} What was nothing more than the usual carefree times,
+Dialogue: 0,0:01:32.45,0:01:38.34,From Shiina,,0,0,120,,{\blur10}{\fad(250,250)} Had now become very dear moments
+Dialogue: 0,0:01:38.35,0:01:50.78,From Shiina,,0,0,120,,{\blur10}{\fad(250,250)} On the corners of that old photo album, remain traces of teardrops
+Dialogue: 0,0:01:50.78,0:01:56.35,From Shiina,,0,0,120,,{\blur10}{\fad(250,250)} To the one who found them,
+Dialogue: 0,0:01:56.35,0:02:06.78,From Shiina,,0,0,120,,{\blur10}{\fad(250,250)} I convey to you, "Thank you, and farewell."
+Dialogue: 0,0:02:26.44,0:02:37.91,To Natsuki,,0,0,120,,{\blur10}{\fad(250,250)} As I write this letter,
+Dialogue: 0,0:02:38.41,0:02:50.48,To Natsuki,,0,0,120,,{\blur10}{\fad(250,250)} I dream of the good old days
+Dialogue: 0,0:02:50.48,0:03:02.38,To Natsuki,,0,0,120,,{\blur10}{\fad(250,250)} Sleeping at the ocean's floor, remaining unnamed
+Dialogue: 0,0:03:02.38,0:03:14.08,To Natsuki,,0,0,120,,{\blur10}{\fad(250,250)} A single bud, that will sprout into a pure heart
+Dialogue: 0,0:03:17.18,0:03:23.78,To Natsuki,,0,0,120,,{\blur10}{\fad(250,250)} Hand in hand, we sleep together in the night
+Dialogue: 0,0:03:23.78,0:03:29.71,To Natsuki,,0,0,120,,{\blur10}{\fad(250,250)} Underneath the shining starry sky
+Dialogue: 0,0:03:29.71,0:03:35.31,To Natsuki,,0,0,120,,{\blur10}{\fad(250,250)} That warmth you provided for me,
+Dialogue: 0,0:03:35.35,0:03:41.38,To Natsuki,,0,0,120,,{\blur10}{\fad(250,250)} The feeling lingers in my hands
+Dialogue: 0,0:03:41.38,0:03:47.81,To Natsuki,,0,0,120,,{\blur10}{\fad(250,250)} In these distant, fading memories,
+Dialogue: 0,0:03:47.81,0:03:53.71,To Natsuki,,0,0,120,,{\blur10}{\fad(250,250)} A gentle voice resonates
+Dialogue: 0,0:03:53.71,0:04:02.01,To Natsuki,,0,0,120,,{\blur10}{\fad(250,250)} Telling me to pass on to you,
+Dialogue: 0,0:04:02.01,0:04:08.08,To Natsuki,,0,0,120,,{\blur10}{\fad(250,250)} "Thank you, and farewell."
+Dialogue: 0,0:04:38.41,0:04:50.75,From Shiina,,0,0,120,,{\blur10}{\fad(250,250)} Hand in hand, returning home from the seaside dyed red of the sunset
+Dialogue: 0,0:04:50.75,0:04:56.38,From Shiina,,0,0,120,,{\blur10}{\fad(250,250)} What was nothing more than an ordinary moment,
+Dialogue: 0,0:04:56.38,0:05:02.45,From Shiina,,0,0,120,,{\blur10}{\fad(250,250)} Now had become a very dear moment
+Dialogue: 0,0:05:02.45,0:05:14.71,From Shiina,,0,0,120,,{\blur10}{\fad(250,250)} On the corners of that old photo album, remains traces of teardrops
+Dialogue: 0,0:05:14.71,0:05:20.35,From Shiina,,0,0,120,,{\blur10}{\fad(250,250)} To the one who found this,
+Dialogue: 0,0:05:20.35,0:05:33.31,From Shiina,,0,0,120,,{\blur10}{\fad(250,250)} Thank you, my favorite person
+Dialogue: 0,0:05:35.28,0:05:48.35,From Shiina,,0,0,120,,{\blur10}{\fad(250,250)} Those dear moments, they'll never come back
