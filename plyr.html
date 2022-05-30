@@ -23,8 +23,8 @@
 
 
         <div style="width: 500px; height: 500px;">
-
-        <div id="player" data-plyr-provider="youtube" data-plyr-embed-id="bTqVqk7FSmY"></div>
+            <video src="https://mirror.clarkson.edu/blender/demo/movies/BBB/bbb_sunflower_1080p_30fps_normal.mp4"
+        id="player" controls data-plyr-config='{ "volume": 1, "debug": true }'></video>
         </div>
         <br><br><br>
 
@@ -38,7 +38,7 @@
                     var options = {
                         video: video,
                         subUrl: '/plyr-shit/subtitles/test.ass',
-                        fonts: ['/plyr-shit/fonts/Arial.ttf', '/JavascriptSubtitlesOctopus/fonts/TimesNewRoman.ttf'],
+                        fonts: ['/plyr-shit/fonts/Arial.ttf', '/plyr-shit/fonts/TimesNewRoman.ttf'],
                         //onReady: onReadyFunction,
                         //debug: true,
                         workerUrl: '/plyr-shit/assets/js/subtitles-octopus-worker.js'
